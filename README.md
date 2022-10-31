@@ -2,7 +2,7 @@
 - 👀 I’m interested in automating 
 - 🌱 I’m currently learning to be happy and ninja 
 - 💞️ I’m looking to collaborate on automation
-- 📫 How to reach me rijalboy.94@gmail.com
+- 📫 How to reach me rijalboy.94@gmail.com, rijalnitesh78@gmail.com
 
 <!---
 neetesshhr/neetesshhr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
