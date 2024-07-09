@@ -1,5 +1,5 @@
 <h3 align="left">Hey👋 ! This is Nitesh</h3>
-I am into DevOps and AI research for the past four years. <br>
+I am into DevOps and AI research for the past six years. <br>
 Interested in learning, automating things, documentation, and volunteering to open source projects.  <br>
 Checkout my recent articles at <a href="https://medium.com/@rijalboy">Medium.
 <br><br>
